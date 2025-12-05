@@ -46,5 +46,5 @@ npm run build
 
 ## 📝 Notas
 
-Todos os textos, labels e formatações estão em **Português (pt-BR)** conforme especificado.
+Desenvolvido pela Synapse.
 
